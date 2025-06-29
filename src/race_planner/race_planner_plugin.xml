@@ -1,0 +1,7 @@
+<library path="lib/librace_planner">
+    <class name="race_planner/RacePlanner" type="race_planner::RacePlanner" base_class_type="nav_core::BaseLocalPlanner">
+        <description>
+            race-planner
+        </description>    
+    </class>
+</library>
